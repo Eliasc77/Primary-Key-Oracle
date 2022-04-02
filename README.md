@@ -9,4 +9,4 @@ primary key(nombre)
 );
 ```
 
-[InformatiConfig](https://www.youtube.com/watch?v=fXhw9B_n7Sg&list=PL2Z95CSZ1N4HM7gzW8gK1Jt3lGWQO0k_G&index=14&ab_channel=INFORMATICONFIG "Video Referencia")
+[Primary Key Video Referencia](https://www.youtube.com/watch?v=fXhw9B_n7Sg&list=PL2Z95CSZ1N4HM7gzW8gK1Jt3lGWQO0k_G&index=14&ab_channel=INFORMATICONFIG "Video Referencia")
